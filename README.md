@@ -26,7 +26,7 @@ git clone  https://github.com/PAVITRA1919/affworld.git
 cd Vibemart
 
 # Install dependencies
-npm install
+npm install axios,bcrypt,braintree,colors,concurrently,cors,dotenv,esm,express,express-formidable,jsonwebtoken,mongoose,morgan,nodemon,react-icons,react-router-dom,slugify,url.
 
 # Start the development server
 npm start
